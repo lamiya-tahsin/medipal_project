@@ -13,7 +13,7 @@ const NavBar = () => {
                         <Image src='/favicon.ico' width={95} height={95} />
                     </Link>
                     <Link href="/signup">SIGN UP</Link>
-                    <Link href="/signin">SIGN IN</Link>
+                    <Link href="/login">LOG IN</Link>
                     <Link href="/services">SERVICES</Link>
                     <Link href="/hospitals">HOSPITALS</Link>
                     <Link href="/about">ABOUT</Link>
